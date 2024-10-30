@@ -232,7 +232,7 @@ function App() {
                 <input
                   className="w-52 pl-3 text-slate-900  h-16  rounded-md"
                   type="text"
-                  placeholder="first name"
+                  placeholder="firstname"
                 />
                 <input
                   className="w-52 pl-3 text-slate-900  h-16  rounded-md"
