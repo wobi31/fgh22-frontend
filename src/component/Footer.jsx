@@ -19,6 +19,7 @@ function footer{
         <div><img src={BCA} alt="" /></div>
         <div>naruto</div>
         <div>naruto</div>
+        <div>naruto</div>
       </div>
       <div>
         <div>img</div>
